@@ -1,0 +1,35 @@
+header{
+    display: flex;
+}
+
+.firstDiv{
+    width: 20%;
+    height: 80px;
+    background-color: rgb(65, 65, 253);
+}
+
+.secondDiv{
+    width: 80%;
+    background-color: grey;
+    margin-left: 20px;
+}
+
+section{
+    background-color: darkgray;
+    width: 99.9%;
+    height: 50vh;
+    margin-top: 30px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card>div{
+    width: 600px;
+    height: 300px;
+    background-color: rgb(47, 145, 145);
+    margin-top: 50px;
+}
