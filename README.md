@@ -1,3 +1,3 @@
 ## Responsive layout
 
-![Completed Website](./resLayout.png)
+![Completed Website](./resLayout.png)# resLayout
